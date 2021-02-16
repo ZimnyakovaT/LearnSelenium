@@ -1,1 +1,1 @@
-# LearnSelenium
+Repository for homework
